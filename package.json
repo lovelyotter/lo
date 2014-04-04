@@ -1,0 +1,20 @@
+{
+  "name": "lo",
+  "version": "0.0.0",
+  "description": "Central Repository of Lovely Otter functionality and data",
+  "main": "lib/lo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lovelyotter/lo.git"
+  },
+  "author": "Dan Woodson",
+  "license": "GPL",
+  "readmeFilename": "README.md",
+  "gitHead": "6b5fbee7f43d92601b8a1e3168fc8e04c9a18154",
+  "bugs": {
+    "url": "https://github.com/lovelyotter/lo/issues"
+  }
+}
