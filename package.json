@@ -16,5 +16,9 @@
   "gitHead": "6b5fbee7f43d92601b8a1e3168fc8e04c9a18154",
   "bugs": {
     "url": "https://github.com/lovelyotter/lo/issues"
+  },
+  "dependencies": {
+    "resourceful": "~0.2.3",
+    "nconf": "~0.6.9"
   }
 }

@@ -1,3 +1,9 @@
+# Configs
+config.json
+
+# Vim swp files
+*.swp
+
 # Logs
 logs
 *.log
